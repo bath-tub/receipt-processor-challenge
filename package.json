@@ -1,0 +1,15 @@
+{
+  "name": "fetchchallenge",
+  "version": "1.0.0",
+  "description": "Take-home assignment for Fetch Rewards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@github/bath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
