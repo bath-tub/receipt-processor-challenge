@@ -1,11 +1,3 @@
-// gotchas:
-/*
-1. The receipt is invalid not just invalid JSON
-2. date and time is always fun :D
-3. retailer name can contain more than just letters and numbers
-*/
-
-
 import { v4 as uuidv4 } from 'uuid';
 import express from 'express';
 const app = express();

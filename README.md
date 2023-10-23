@@ -51,8 +51,8 @@ If the receipt ID is valid, the API will return a `200 OK` response with the JSO
 
 The following are some gotchas I ran into when developing this program:
 
-1. The receipt is invalid not just invalid JSON.
-2. Date and time can be tricky to handle.
+1. Try to process receipt at time of post and catch any errors with that.
+2. Date and time are always fun :D
 3. Retailer name can contain more than just letters and numbers.
 
 ## Dependencies
