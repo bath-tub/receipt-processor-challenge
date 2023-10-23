@@ -1,6 +1,8 @@
 # Installation for Receipt Processing Program
 
-This project uses docker to run the program. Please ensure you have that installed from the official docker website[https://www.docker.com/products/docker-desktop].
+Hello Fetch Engineers! I am Miller Bath. Please let me know if you run into any issues and contact millerzbath@gmail.com if you have any questions.
+
+This project uses docker to run the program. Please ensure you have that installed from the [official docker website](https://www.docker.com/products/docker-desktop).
 1. Clone this repo
 2. Change directory into the repo
 3. run `docker build -t receipt-processing .`
